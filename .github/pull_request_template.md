@@ -1,0 +1,9 @@
+## ✅ Pre-Review Checklist
+
+Please make sure all items are checked before requesting a review 😄
+
+- [ ] Code compiles and runs without errors
+- [ ] All tests are written and passing
+- [ ] Code is formatted and linted
+- [ ] Documentation is up to date
+- [ ] Review comments are addressed
